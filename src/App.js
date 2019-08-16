@@ -24,3 +24,4 @@ function App() {
 }
 
 export default App;
+/* eslint-disable prettier/prettier */
